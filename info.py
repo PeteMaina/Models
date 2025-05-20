@@ -1,3 +1,9 @@
+'''First intall the neccesary libraries, or you can opt to use upon use
+    the first one is an example'''
+
+pip install python-dotenv openai requests logging time random
+
+
 import openai
 import requests
 import json
