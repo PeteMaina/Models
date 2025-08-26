@@ -1,3 +1,10 @@
+'''Voice Generation using GANs
+A PyTorch implementation of a GAN-based voice generation system.
+Designed and trained on the LJSpeech dataset.
+Includes training and evaluation functionalities.
+copyright: peterwahomemaina003@gmail.com
+reach out for more info'''
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
