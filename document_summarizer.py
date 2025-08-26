@@ -1,3 +1,7 @@
+'''Smart Document Summarizer
+A Streamlit app that summarizes documents using various NLP techniques.
+uses advanced algorithms to extract key information from documents.'''
+
 import streamlit as st
 import PyPDF2
 import docx
